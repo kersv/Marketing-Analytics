@@ -29,7 +29,7 @@ This case study utilizes a data-driven approach, incorporating quantitative meth
 4. **Recommendation Algorithm**: Using collaborative filtering, the recommendation system identified 3 new films for each of the top 2 categories and 3 new films featuring the most-watched actor that the customer has not yet watched.
 
 ## Results
-#### Output 1: Display of Each Customer's First and Second Top Category and Actor Name
+#### Output 1: Display of Customer's First and Second Top Category and Actor Name
 ![Customers Insights](marketing_results/top_category_and_actor_result.png)
 
 #### Output 2: Film and Actor Recommendations
