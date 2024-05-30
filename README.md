@@ -21,9 +21,6 @@ This case study utilizes a data-driven approach, incorporating quantitative meth
 
 2. **Comparative Statistics**: DVD Rental CO's customer statistics were compared internally to identify trends and gaps.
 
-   - **Classics Films**: You've watched 6 Classics films, that's 4 more than the DVD Rental Co average and puts you in the top 1% of Classics Gurus!
-   - **Comedy Films**: You've watched 5 Comedy, making up 16% of your entire viewing history!
-
 3. **Personalized Insights**: Each customer's watch history was analyzed to identify their top 2 favorite categories and the most-watched actor.
 
 4. **Recommendation Algorithm**: Using collaborative filtering, the recommendation system identified 3 new films for each of the top 2 categories and 3 new films featuring the most-watched actor that the customer has not yet watched.
