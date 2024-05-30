@@ -29,8 +29,9 @@ This case study utilizes a data-driven approach, incorporating quantitative meth
 4. **Recommendation Algorithm**: Using collaborative filtering, the recommendation system identified 3 new films for each of the top 2 categories and 3 new films featuring the most-watched actor that the customer has not yet watched.
 
 ## Results
+![Customers Insights](marketing_results/top_category_and_actor_result.png)
+![Customers Insights](marketing_results/long_form_recommendations_result.png)
 ![Customers Insights](marketing_results/all_insights_result.png)
-
 This approach aims to increase rental frequency by offering personalized and relevant film suggestions.
 
 ## Conclusion
